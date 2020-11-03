@@ -1,5 +1,5 @@
 ---
-traefik_version: 2.2.1
-traefik_checksum: 04139683e0cd6fc4e98eae9d469490d1a85074a0d810f640296f81991763657c
+traefik_version: 2.3.2
+traefik_checksum: 8ba32794145705e633808d3c743b3fb6ba0aff011d3c575a2f3986191c4d5426
 traefik_config: "config.toml"
 traefik_config_files: []
